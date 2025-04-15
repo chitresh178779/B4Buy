@@ -34,7 +34,7 @@ B4Buy simplifies the device purchasing process by:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/b4buy.git
+git clone https://github.com/chitresh178779/b4buy.git
 ```
 
 2. Navigate to the project directory:
