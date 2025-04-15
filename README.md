@@ -112,6 +112,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Chitresh - [chitresh.gurjar8779@gmail.com](mailto:chitresh.gurjar8779@gmail.com)
+Keertana - [keertanagupta@gmail.com](mailto:keertanagupta@gmail.com)
 
-Project Link: [https://github.com/yourusername/b4buy](https://github.com/yourusername/b4buy)
+Project Link: [https://github.com/chitresh178779/b4buy](https://github.com/chitresh178779/b4buy)
